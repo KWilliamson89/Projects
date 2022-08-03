@@ -1,0 +1,45 @@
+.div1 {
+    float: left;
+    height: 200px;
+    width: 300px;
+}
+
+.div2 {
+    float: left;
+    overflow: hidden;
+    margin: 10px 0;
+    border: 3px solid black;
+    height: 200px;
+    width: 300px;
+}
+
+.div3 {
+    float: left;
+    clear:both;
+    height: 200px;
+    width: 300px;
+    border: 5px dotted red;
+}
+
+.div4 {
+    float: right;
+    overflow: scroll;
+    margin: 10px 0;
+    height: 200px;
+    width: 300px;
+}
+
+.div5 {
+    float: right;
+    color: blue;
+    height: 200px;
+    width: 300px;
+}
+
+.div6 {
+    float: right;
+    clear: both;
+    height: 200px;
+    width: 300px;
+    border: 5px dotted red;
+}
